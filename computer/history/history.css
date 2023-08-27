@@ -1,0 +1,38 @@
+/* 画像 */
+.pc_photo
+{
+	width:auto;
+	height:240px;
+	float:none;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#ff00ad;
+	text-align:center;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ffffff;
+	text-align:center;
+}
+
+.sub_header td#top_left
+{
+	width:auto;
+	background-color:#ffffff;
+	text-align:center;
+	font-size:140%;
+}
+
+@media screen and (max-width:479px)
+{
+	/* 画像 */
+	.pc_photo
+	{
+		width:auto;
+		height:120px;
+	}
+}

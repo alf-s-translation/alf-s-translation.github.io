@@ -1,0 +1,48 @@
+曲名　　　　   ：MIST LAND（アレンジバージョン） Ver.1.1
+出典　　　　   ：風の伝説ザナドゥII
+著作権者　　   ：日本ファルコム株式会社
+作曲者　　　   ：Falcom Sound Team jdk
+アレンジ　　   ：安達良則
+データ作成者   ：安達良則
+対応音源　　   ：Roland SC-88Proシリーズ
+データ形式　   ：標準MIDIファイル(SMF format1)
+Ver.1.0作曲環境：本体　　NEC PC-9821Xa10/C4 (Microsoft Windows 98 Beta3)
+　　　　　　　   I/F 　　シリアルポート(RS-232C)
+　　　　　　　   音源　　Roland SC-88Pro
+　　　　　　　   Key   　Roland PC-200
+                 ソフト　Cakewalk Pro Audio 6.0
+Ver.1.1作曲環境：本体　　自作PC (Microsoft Windows XP Home Edition 2002 SP2)
+　　　　　　　   I/F 　　Roland UA-100
+　　　　　　　   音源　　Roland SC-88Pro
+　　　　　　　   Key   　Roland PC-200
+                 ソフト　Cakewalk SONAR 1.0
+演奏上の注意   ：演奏前に音源のリセットを行って下さい。リセットしないと
+　　　　　　   　意図されたように演奏されない場合があります。
+
+＊Ver.1.0コメント
+　PC Engineで発売されたアクションRPG「風の伝説ザナドゥII」の第四章
+「閉ざされし山々」で流れる曲。PC Engine内蔵の波形メモリ音源で演奏されている
+原曲からイメージされる音色に近づけるようにしてみた。
+　１コーラス目は原曲の耳コピー版、２コーラス目がアレンジ版（パートの追加と
+リズムの変更）になっている。
+
+・参考CD：「ミュージックフロム　風の伝説ザナドゥII」（キングレコード）
+
+(1998/05/04)
+
+＊Ver.1.1コメント
+　アレンジ版の最後の方にある繰り返しがしつこい感じだったので、繰り返し回数を
+減らした。また、リズムも変更した。
+　全体を通してベース音色の変更、各パートのボリューム調整を行った。
+
+(2005/05/21)
+
+MIST LAND/風の伝説ザナドゥII/Copyright(C) Nihon Falcom Corporation
+
+------------------------------------------------------------------------
+
+感想はメールでお願いします。
+　alf-room@hobby.biglobe.ne.jp
+
+Web Site「アルフの部屋」
+　http://alf-s-room.main.jp/

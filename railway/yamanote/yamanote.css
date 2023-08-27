@@ -1,0 +1,72 @@
+/* 基本設定 */
+.c_yamanote
+{
+	color:#00ff00;
+}
+
+.c_keihintouhoku
+{
+	color:#0094ef;
+}
+
+.c_syounan
+{
+	color:#ff9400;
+}
+
+.c_yokosuka
+{
+	color:#0000ff;
+}
+
+/* マップテーブル */
+.table_map
+{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+}
+
+.table_map td
+{
+	font-size:140%;
+	background-color:#ffffff;
+	padding-left:6px;
+	padding-right:6px;
+}
+
+.table_map td#yamanote
+{
+	background-color:#00ff00;
+}
+
+.table_map td#yamanote_line
+{
+	background-color:#00ff00;
+	height:30px;
+}
+
+.table_map td#space_line
+{
+	height:6px;
+}
+
+@media (max-width:479px)
+{
+	.table_map td
+	{
+		font-size:105%;
+		padding-left:4.5px;
+		padding-right:4.5px;
+	}
+
+	.table_map td#yamanote_line
+	{
+		height:22.5px;
+	}
+
+	.table_map td#space_line
+	{
+		height:4.5px;
+	}
+}

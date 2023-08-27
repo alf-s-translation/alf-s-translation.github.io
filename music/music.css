@@ -1,0 +1,125 @@
+/* 基本設定 */
+body
+{
+	background-color:#ffccaa;
+	color:#000000;
+}
+
+/* 画像 */
+.chawan
+{
+	width:238px;
+	height:auto;
+	float:left;
+}
+
+.chokuroku
+{
+	width:351px;
+	height:auto;
+}
+
+.ourin
+{
+	width:339px;
+	height:auto;
+}
+
+.zasshi
+{
+	width:342px;
+	height:auto;
+}
+
+/* 基本テーブル */
+table td#title
+{
+	background-color:#ff6b00;
+}
+
+.table_base
+{
+	margin-left:0px;
+}
+
+.table_base td
+{
+	padding-left:4px;
+	padding-right:4px;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#ff6b00;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ff9966;
+}
+
+.sub_header td#title
+{
+	background-color:#ff6b00;
+}
+
+/* メニューテーブル */
+.table_menu
+{
+	border-collapse: separate;
+}
+
+.table_menu tr#sub_title
+{
+	background-color:#ff9966;
+}
+
+.table_menu tr#footer
+{
+	background-color:#ff9966;
+}
+
+.table_menu td#title
+{
+	text-align:left;
+}
+
+/* データーテーブル */
+.table_data td#title
+{
+	background-color:#ff6b00;
+}
+
+.table_data td#name
+{
+	background-color:#ff9966;
+}
+
+@media screen and (max-width:479px)
+{
+	/* 画像 */
+	.chawan
+	{
+		width:119px;
+		height:auto;
+	}
+
+	.chokuroku
+	{
+		width:176px;
+		height:auto;
+	}
+
+	.ourin
+	{
+		width:170px;
+		height:auto;
+	}
+
+	.zasshi
+	{
+		width:171px;
+		height:auto;
+	}
+}

@@ -1,0 +1,215 @@
+/* 基本設定 */
+body
+{
+	background-color:#22eecc;
+	color:#000000;
+}
+
+/* 画像 */
+.title
+{
+	width:426px;
+	height:auto;
+}
+
+.banner
+{
+	width:200px;
+	height:auto;
+}
+
+/* 更新情報 */
+.table_update td#railway
+{
+	background-color:#ff9400;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#music
+{
+	background-color:#ff6b00;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#computer
+{
+	background-color:#ff00ad;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#tenji
+{
+	background-color:#ff21df;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#staff
+{
+	background-color:#b500ff;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#link
+{
+	background-color:#5030ff;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.table_update td#top
+{
+	background-color:#00b9aa;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+/* メニュー */
+.table_menu a:link
+{
+	color:#000000;
+}
+
+.table_menu a:visited
+{
+	color:#000000;
+}
+
+.table_menu tr#railway
+{
+	background-color:#ffddbb;
+}
+
+.table_menu tr#music
+{
+	background-color:#ffccaa;
+}
+
+.table_menu tr#computer
+{
+	background-color:#ffbbff;
+}
+
+.table_menu tr#tenji
+{
+	background-color:#ffccff;
+}
+
+.table_menu tr#staff
+{
+	background-color:#eeddff;
+}
+
+.table_menu tr#link
+{
+	background-color:#ccddff;
+}
+
+.table_menu tr#blog
+{
+	background-color:#99ddff;
+}
+
+.table_menu tr#movie
+{
+	background-color:#66eeff;
+}
+
+.table_menu tr#twitter
+{
+	background-color:#77ffff;
+}
+
+.table_menu td
+{
+	padding-left:16px;
+}
+
+.table_menu td#title
+{
+	font-size:120%;
+	white-space:nowrap;
+}
+
+.table_menu td#railway
+{
+	background-color:#ff9400;
+	width:4px;
+}
+
+.table_menu td#music
+{
+	background-color:#ff6b00;
+	width:4px;
+}
+
+.table_menu td#computer
+{
+	background-color:#ff00ad;
+	width:4px;
+}
+
+.table_menu td#tenji
+{
+	background-color:#ff21df;
+	width:4px;
+}
+
+.table_menu td#staff
+{
+	background-color:#b500ff;
+	width:4px;
+}
+
+.table_menu td#link
+{
+	background-color:#5030ff;
+	width:4px;
+}
+
+.table_menu td#blog
+{
+	background-color:#2050ff;
+	width:4px;
+}
+
+.table_menu td#movie
+{
+	background-color:#0070ff;
+	width:4px;
+}
+
+.table_menu td#twitter
+{
+	background-color:#00a0ff;
+	width:4px;
+}
+
+.table_menu td#menu
+{
+	font-size:140%;
+	white-space:nowrap;
+}
+
+@media screen and (max-width:479px)
+{
+	.title
+	{
+		width:213px;
+	}
+
+	.table_menu td
+	{
+		padding-left:8px;
+	}
+
+	.banner
+	{
+		width:100px;
+		height:auto;
+	}
+}

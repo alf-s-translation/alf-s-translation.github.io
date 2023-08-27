@@ -1,0 +1,30 @@
+曲名　　　　：El Castillo（エル・カスティージョ）
+出典　　　　：太陽の神殿
+著作権者　　：日本ファルコム株式会社
+作曲者　　　：日本ファルコム株式会社
+データ作成者：安達良則
+対応音源　　：Roland SC-88Proシリーズ
+データ形式　：標準MIDIファイル(SMF format0)
+作曲環境　　：本体　PB-NEC Avanza NX TW40D (Microsoft Windows 98 SE)
+　　　　　　　I/F 　Roland UA-100
+　　　　　　　音源　Roland SC-88Pro
+　　　　　　　Key   Roland PC-200
+使用ソフト　：Cakewalk Pro Audio 9.0
+演奏上の注意：演奏前に音源のリセットを行って下さい。リセットしないと
+　　　　　　　意図されたように演奏されない場合があります。
+
+　アドベンチャーゲーム「太陽の神殿」のスタッフロールで流れる曲。耳コピーで
+X1版（PSG音源）を忠実に再現した。メロディパートとベースパートの2つしかないが、
+PSG音源の音色を再現するためにいくつか音を重ねている。
+
+(2000/06/18)
+
+El Castillo/太陽の神殿/Copyright(C) Nihon Falcom Corporation
+
+------------------------------------------------------------------------
+
+感想はメールでお願いします。
+　alf-room@hobby.biglobe.ne.jp
+
+Web Site「アルフの部屋」
+　http://alf-s-room.main.jp/

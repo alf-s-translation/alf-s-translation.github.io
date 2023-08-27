@@ -1,0 +1,94 @@
+/* データーテーブル */
+.table_data tr
+{
+	background-color:#ffffff;
+	text-align:center;
+	white-space:nowrap;
+}
+
+.table_data td#old
+{
+	background-color:#dddddd;
+}
+
+.table_data td#dc
+{
+	background-color:#0094ef;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#acdc
+{
+	background-color:#ce6b8c;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#ac
+{
+	background-color:#ff0000;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#bi
+{
+	background-color:#00b9aa;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#not
+{
+	background-color:#aaaaaa;
+	color:#ffffff;
+}
+
+.table_data td#liquid
+{
+	background-color:#0094ef;
+	color:#ffffff;
+}
+
+.table_data td#hybrid
+{
+	background-color:#00b9aa;
+	color:#ffffff;
+}
+
+.table_data td#electric
+{
+	background-color:#00bb00;
+	color:#ffffff;
+}
+
+.table_data td#turbine
+{
+	background-color:#ffff00;
+}
+
+.table_data td#machine
+{
+	background-color:#aaaaaa;
+	color:#ffffff;
+}
+
+.table_data td#data
+{
+	text-align:left;
+	white-space:normal;
+}
+
+.table_data td#old_data
+{
+	padding-left:4px;
+	padding-right:4px;
+	background-color:#dddddd;
+	text-align:left;
+	white-space:normal;
+}

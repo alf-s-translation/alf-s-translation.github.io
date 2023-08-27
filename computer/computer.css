@@ -1,0 +1,129 @@
+/* 基本設定 */
+body
+{
+	background-color:#ffeeff;
+	color:#000000;
+}
+
+.delete
+{
+	color:#ff0000;
+	text-decoration:line-through;
+}
+
+.br_delete
+{
+	color:#ff0000;
+	text-decoration:line-through;
+	display:inline-block;
+}
+
+
+/* ヘッダー */
+.header td#title
+{
+	background-color:#ff00ad;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#ff00ad;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ffddff;
+}
+
+.sub_header td#title
+{
+	background-color:#ff00ad;
+}
+
+/* 基本テーブル */
+table td#title
+{
+	background-color:#ff00ad;
+}
+
+.table_base td#title
+{
+	text-align:left;
+	white-space:nowrap;
+	padding-left:6px;
+}
+
+/* メニューテーブル */
+.table_menu
+{
+	border-collapse: separate;
+}
+
+.table_menu tr#sub_title
+{
+	background-color:#ffddff;
+}
+
+.table_menu td#catalog
+{
+	white-space:nowrap;
+}
+
+/* データーテーブル */
+.table_data tr#sub_title
+{
+	background-color:#ffddff;
+	white-space:nowrap;
+	text-align:center;
+}
+
+.table_data tr#footer
+{
+	background-color:#ffddff;
+	text-align:right;
+}
+
+.table_data td#name
+{
+	background-color:#ff00ad;
+	color:#ffffff;
+}
+
+.table_data td#sub_name
+{
+	background-color:#ffaaee;
+	text-align:left;
+	white-space:nowrap;
+}
+
+.table_data td#active
+{
+	padding-left:4px;
+	padding-right:4px;
+	background-color:#ffaaee;
+}
+
+.table_data td#status
+{
+	background-color:#ffffff;
+	text-align:center;
+	white-space:nowrap;
+}
+
+.table_data td#a_status
+{
+	background-color:#ffaaee;
+	text-align:center;
+	white-space:nowrap;
+}
+
+.table_data a:link
+{
+	color:#000000;
+}
+
+.table_data a:visited
+{
+	color:#000000;
+}

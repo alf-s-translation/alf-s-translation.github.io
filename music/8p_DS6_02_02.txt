@@ -1,0 +1,35 @@
+曲名　　　　　：USER DISK作成（アレンジ曲）
+出典　　　　　：ドラゴンスレイヤー英雄伝説
+著作権者　　　：日本ファルコム株式会社
+作曲者　　　　：Falcom Sound Team J.D.K（石川三恵子）
+アレンジ　　　：安達良則
+データー作成者：安達良則
+対応音源　　　：Roland SC-88Proシリーズ
+データー形式　：MIDI・・・標準MIDIファイル(SMF format0)
+　　　　　　　：オーディオ・・・Windows Media Audioファイル(WMA)
+作曲環境　　　：本体　PB-NEC Avanza NX TW40D (Microsoft Windows 98 SE)
+　　　　　　　　I/F 　Roland UA-100
+　　　　　　　　音源　Roland SC-88Pro
+　　　　　　　　Key   Roland PC-200
+使用ソフト　　：Cakewalk Pro Audio 9.0
+MIDI演奏の注意：演奏前に音源のリセットを行って下さい。リセットしないと
+　　　　　　　　意図されたように演奏されない場合があります。
+
+　PC-8801版のRPG「ドラゴンスレイヤー英雄伝説」でユーザーディスクのファーマット
+などを行うときに流れる曲。空を飛んでいるような気分をイメージしてアレンジして
+みた。ぐるぐる回る感じ。
+
+・参考文献：「FALCOM OFFICIAL SCORE ドラゴンスレイヤー英雄伝説全曲集」
+　　　　　　　　　　　　　　　　　　　　（ファルコム・クリエイティブオフィス）
+
+(2000/10/07)
+
+USER DISK作成/ドラゴンスレイヤー英雄伝説/Copyright(C) Nihon Falcom Corporation
+
+------------------------------------------------------------------------
+
+感想はメールでお願いします。
+　alf-room@hobby.biglobe.ne.jp
+
+Web Site「アルフの部屋」
+　http://alf-s-room.main.jp/

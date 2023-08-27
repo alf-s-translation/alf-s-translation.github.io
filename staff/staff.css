@@ -1,0 +1,40 @@
+/* 基本設定 */
+body
+{
+	background-color:#eeddff;
+	color:#000000;
+}
+
+/* ヘッダー */
+.header td#title
+{
+	background-color:#b500ff;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#b500ff;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ddaaff;
+}
+
+.sub_header td#title
+{
+	background-color:#b500ff;
+}
+
+/* 基本テーブル */
+table td#title
+{
+	background-color:#b500ff;
+}
+
+/* データーテーブル */
+.table_data td#name
+{
+	background-color:#ddaaff;
+}

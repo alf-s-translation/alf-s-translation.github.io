@@ -1,0 +1,49 @@
+曲名　　　　   ：See you again（アレンジバージョン） Ver.1.1
+出典　　　　   ：イース
+著作権者　　   ：日本ファルコム株式会社
+作曲者　　     ：日本ファルコム株式会社（古代祐三）
+アレンジ　　   ：安達良則
+データ作成者   ：安達良則
+対応音源　　   ：Roland SC-88Proシリーズ
+　　　　　　　   （XG音源、GS音源、GM音源等でも一応演奏できます。）
+データ形式     ：標準MIDIファイル(SMF format1)
+Ver.1.0作曲環境：本体　  NEC PC-9821Xa10/C4 (Microsoft Windows 95)
+　　　　　　　   I/F 　  Creative Sound Blaster 32AWE/98PnP
+　　　　　　　   音源　  Roland SC-88Pro
+　　　　　　　   Key     Roland PC-200
+                 ソフト　Cakewalk Home Studio 5.0
+Ver.1.1作曲環境：本体　　自作PC (Microsoft Windows XP Home Edition 2002 SP2)
+　　　　　　　   I/F 　　Roland UA-100
+　　　　　　　   音源　　Roland SC-88Pro
+　　　　　　　   Key   　Roland PC-200
+                 ソフト　Cakewalk SONAR 1.0
+演奏上の注意   ：演奏前に音源のリセットを行って下さい。リセットしないと
+　　　　　　　   意図されたように演奏されない場合があります。
+
+＊Ver.1.0コメント
+　PC-8801版とPC-9801版のアクションRPG「イース」のスタッフロールで流れる曲。
+アレンジはオリジナルパートの追加がメインで、そのほか前奏・間奏・後奏をちょっと
+いじった。また、２周目の最初の方でメロディを全く変えて遊んでみた。
+
+・参考文献：チャレンジ！！パソコンアドベンチャーゲーム＆
+　　　　　　　　　　　　　　　　　　　　ロールプレイングゲーム３（電波新聞社）
+
+(1998/01/26)
+
+＊Ver.1.1コメント
+　リズムパートの変更と全体の音色の変更を行った。Ver.1.0ではシンセ系の音色
+だったのがVer.1.1ではアコースティック系になり、かなりイメージが変わっている。
+　２コーラス目の最初でメロディを変えてあるのはVer.1.0と同じ。気づいた人も
+いると思うが、FM77AV用ワープロソフトデモの曲だったりする。
+
+(2006/08/04)
+
+See you again/イース/Copyright(C) Nihon Falcom Corporation
+
+------------------------------------------------------------------------
+
+感想はメールでお願いします。
+　alf-room@hobby.biglobe.ne.jp
+
+Web Site「アルフの部屋」
+　http://alf-s-room.main.jp/

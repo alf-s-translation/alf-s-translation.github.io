@@ -1,0 +1,480 @@
+/* 基本設定 */
+body
+{
+	background-color:#ffddbb;
+	color:#000000;
+}
+
+.strong
+{
+	color:#5030ff;
+}
+
+/* 画像 */
+.ticket_s
+{
+	width:240px;
+	height:auto;
+}
+
+.ticket_n
+{
+	width:320px;
+	height:auto;
+}
+
+.ticket_l
+{
+	width:450px;
+	height:auto;
+}
+
+.ticket_w
+{
+	width:640px;
+	height:auto;
+}
+
+.ticket_tn
+{
+	width:auto;
+	height:320px;
+	vertical-align:top;
+}
+
+.ticket_tl
+{
+	width:auto;
+	height:450px;
+	vertical-align:top;
+}
+
+.ticket_t
+{
+	width:auto;
+	height:640px;
+	vertical-align:top;
+}
+
+/* 基本テーブル */
+table td#title
+{
+	background-color:#ff9400;
+}
+
+table td#footer
+{
+	background-color:#ffbb77;
+}
+
+/* ヘッダー */
+.header td#title
+{
+	background-color:#ff9400;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#ff9400;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ffbb77;
+}
+
+.sub_header td#title
+{
+	background-color:#ff9400;
+}
+
+.sub_header td#sub_title
+{
+	background-color:#ff9400;
+}
+
+/* セレクター */
+.selector td#on
+{
+	background-color:#ffbb77;
+}
+
+.selector td#off
+{
+	background-color:#ffffff;
+}
+
+/* 更新情報テーブル */
+.table_update
+{
+	border-collapse: collapse;
+}
+
+.table_update td
+{
+	background-color:#000000;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.table_update td#title
+{
+	background-color:#848484;
+}
+
+.table_update tr#new
+{
+	color:#ff0000;
+}
+
+.table_update tr#next
+{
+	color:#ffaa00;
+}
+
+.table_update tr#old
+{
+	color:#00aa00;
+}
+
+/* メニューテーブル */
+.menu_set
+{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+}
+
+.menu_set tr#main
+{
+	background-color:#ffffff;
+}
+
+.menu_title
+{
+	background-color:#000000;
+	color:#ffffff;
+	font-size:160%;
+}
+
+.menu_title td#no
+{
+	width:40px;
+	text-align:center;
+	font-weight:bold;
+}
+
+.menu_title td#name
+{
+	white-space:pre-wrap;
+	padding-left:16px;
+}
+
+.menu_title td#special
+{
+	background-color:#ff4a00;
+	width:12px;
+}
+
+.menu_title td#report
+{
+	background-color:#ffff00;
+	width:12px;
+}
+
+.menu_title td#library
+{
+	background-color:#00ff00;
+	width:12px;
+}
+
+.menu_title td#diary
+{
+	background-color:#0094ef;
+	width:12px;
+}
+
+.table_menu
+{
+	margin-left:0px;
+}
+
+/* データーテーブル */
+.table_data td#title
+{
+	text-align:left;
+}
+
+.table_data td#name
+{
+	background-color:#ffbb77;
+}
+
+.table_data td#name_l
+{
+	background-color:#ffbb77;
+}
+
+.table_data td#jnr
+{
+	background-color:#aaaaaa;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrh
+{
+	background-color:#00ff00;
+	color:#000000;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jre
+{
+	background-color:#00bb00;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrc
+{
+	background-color:#ffaa00;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrw
+{
+	background-color:#0000ff;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrs
+{
+	background-color:#00ffff;
+	color:#000000;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrk
+{
+	background-color:#ff0000;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrf
+{
+	background-color:#00aaff;
+	color:#ffffff;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#jrr
+{
+	background-color:#bbaaff;
+	color:#000000;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.table_data td#pvr
+{
+	background-color:#ffff00;
+	color:#000000;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+/* 出口 */
+.exit a:link
+{
+	color:#000000;
+}
+
+.exit a:visited
+{
+	color:#000000;
+}
+
+.exit tr
+{
+	background-color:#ffffff;
+}
+
+.exit td#left_b
+{
+	width:47px;
+}
+
+.exit td#left
+{
+	font-size:120%;
+	text-align:left;
+	vertical-align:middle;
+	padding-right:0px;
+}
+
+.exit td#center
+{
+	background-color:#ffde00;
+}
+
+.exit td#right
+{
+	font-size:120%;
+	text-align:right;
+	vertical-align:middle;
+	padding-left:0px;
+}
+
+.exit td#right_b
+{
+	width:47px;
+}
+
+.back_button
+{
+	width:47px;
+}
+
+.exit_button
+{
+	width:71px;
+}
+
+.next_button
+{
+	width:47px;
+}
+
+@media screen and (max-width:479px)
+{
+	/* 画像 */
+	.ticket_s
+	{
+		width:120px;
+		height:auto;
+	}
+
+	.ticket_n
+	{
+		width:160px;
+		height:auto;
+	}
+
+	.ticket_l
+	{
+		width:225px;
+		height:auto;
+	}
+
+	.ticket_w
+	{
+		width:320px;
+		height:auto;
+	}
+
+	.ticket_tn
+	{
+		width:auto;
+		height:160px;
+	}
+
+	.ticket_tl
+	{
+		width:auto;
+		height:225px;
+	}
+
+	.ticket_t
+	{
+		width:auto;
+		height:320px;
+	}
+
+	/* 更新情報テーブル */
+	.table_update td
+	{
+		padding-left:4px;
+		padding-right:4px;
+	}
+
+	/* メニューテーブル */
+	.menu_title td#no
+	{
+		width:20px;
+	}
+
+	.menu_title td#name
+	{
+		padding-left:8px;
+	}
+
+	.menu_title td#special
+	{
+		width:6px;
+	}
+
+	.menu_title td#report
+	{
+		width:6px;
+	}
+
+	.menu_title td#library
+	{
+		width:6px;
+	}
+
+	.menu_title td#diary
+	{
+		width:6px;
+	}
+
+	/* 出口 */
+	.exit td#left_b
+	{
+		width:24px;
+	}
+
+	.exit td#right_b
+	{
+		width:24px;
+	}
+
+	.back_button
+	{
+		width:36px;
+	}
+
+	.exit_button
+	{
+		width:54px;
+	}
+
+	.next_button
+	{
+		width:36px;
+	}
+
+}
+
+@media screen and (max-width:361px)
+{
+	/* 画像 */
+	.ticket_w
+	{
+		width:100%;
+		height:auto;
+	}
+}

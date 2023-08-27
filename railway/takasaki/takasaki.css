@@ -1,0 +1,41 @@
+/* サブヘッダー */
+.sub_header td#takasaki_tokyo
+{
+	background-color:#ff9400;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#takasaki_local
+{
+	background-color:#0094ef;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#hachikou
+{
+	background-color:#aaaaaa;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#shinkansen
+{
+	background-color:#00aa33;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#joshin
+{
+	background-color:#ff9999;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+

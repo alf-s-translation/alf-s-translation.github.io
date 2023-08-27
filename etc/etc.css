@@ -1,0 +1,45 @@
+/* 基本設定 */
+body
+{
+	background-color:#ffddff;
+	color:#000000;
+}
+
+/* ヘッダー */
+.header td#title
+{
+	background-color:#ff21df;
+}
+
+/* サブヘッダー */
+.sub_header td#top_center
+{
+	background-color:#ff21df;
+}
+
+.sub_header td#top_right
+{
+	background-color:#ff81ef;
+}
+
+.sub_header td#title
+{
+	background-color:#ff21df;
+}
+
+.sub_header td#sub_title
+{
+	background-color:#ff21df;
+}
+
+/* 基本テーブル */
+table td#title
+{
+	background-color:#ff21df;
+}
+
+/* データーテーブル */
+.table_data td#name
+{
+	background-color:#ff81ef;
+}

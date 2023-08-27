@@ -1,0 +1,33 @@
+/* サブヘッダー */
+.sub_header td#joban_local
+{
+	background-color:#aaaaaa;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#joban_rapid
+{
+	background-color:#00b9aa;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#joban_ueno
+{
+	background-color:#0000ff;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+
+.sub_header td#joban_sendai
+{
+	background-color:#00bb99;
+	color:#ffffff;
+	padding-left:6px;
+	font-size:120%;
+}
+

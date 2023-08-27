@@ -1,0 +1,10 @@
+/* メニューテーブル */
+.table_menu
+{
+	width:100%;
+}
+
+.table_menu td#title
+{
+	text-align:left;
+}

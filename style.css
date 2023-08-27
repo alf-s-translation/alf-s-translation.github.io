@@ -1,0 +1,736 @@
+@charset "Shift_JIS";
+
+/* 基本設定 */
+
+.center
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+body
+{
+	font-size:100%;
+}
+
+.strong
+{
+	color:#ff0000;
+}
+
+.br_text
+{
+	display:inline-block;
+}
+
+.br_link
+{
+	display:inline-block;
+	text-decoration:underline;
+}
+
+/* 画像 */
+.button_railway
+{
+	width:90px;
+	height:auto;
+}
+
+.button_music
+{
+	width:49px;
+	height:auto;
+}
+
+.button_computer
+{
+	width:145px;
+	height:auto;
+}
+
+.button_tenji
+{
+	width:49px;
+	height:auto;
+}
+
+.button_staff
+{
+	width:49px;
+	height:auto;
+}
+
+.button_link
+{
+	width:66px;
+	height:auto;
+}
+
+.photo
+{
+	width:auto;
+	height:240px;
+	float:left;
+}
+
+.photo_w
+{
+	width:auto;
+	height:240px;
+	float:none;
+}
+
+.photo2
+{
+	width:auto;
+	height:480px;
+	float:none;
+}
+
+.photo3
+{
+	width:auto;
+	height:720px;
+	float:none;
+}
+
+.photo_max
+{
+	width:100%;
+	height:auto;
+	float:none;
+}
+
+.photo_caption
+{
+	width:auto;
+	height:240px;
+	float:none;
+}
+
+.catalog
+{
+	width:auto;
+	height:960px;
+	float:none;
+}
+
+.catalog_w
+{
+	width:auto;
+	height:960px;
+	float:none;
+}
+
+.movie_w
+{
+	width:720px;
+	height:405px;
+	border:none;
+
+}
+
+.youtube
+{
+	width:720px;
+}
+
+.youtube iframe
+{
+	top:0;
+	right:0;
+	width:720px;
+	height:405px;
+	border:none;
+}
+
+/* 基本テーブル */
+table
+{
+	font-size:100%;
+}
+
+table td#title
+{
+	background-color:#00b9aa;
+	color:#ffffff;
+	text-align:center;
+	white-space:nowrap;
+}
+
+table td#name
+{
+	white-space:nowrap;
+}
+
+table td#date
+{
+	white-space:nowrap;
+}
+
+table td#type
+{
+	white-space:nowrap;
+}
+
+table td#footer
+{
+	color:#000000;
+	text-align:right;
+}
+
+.table_base
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.table_base td
+{
+	background-color:#ffffff;
+}
+
+.table_base td#strong
+{
+	color:#ff0000;
+}
+
+.table_base td#center
+{
+	text-align:center;
+}
+
+/* ヘッダー */
+.header
+{
+	width:100%;
+	border-collapse: collapse;
+}
+
+.header td#menu
+{
+	padding-top:6px;
+	padding-left:6px;
+	background-color:#00b9aa;
+}
+
+.header td#title
+{
+	font-size:160%;
+	color:#ffffff;
+}
+
+.button_top
+{
+	width:160px;
+	height:auto;
+}
+
+/* サブヘッダー */
+.sub_header
+{
+	width:100%;
+	border-collapse: collapse;
+}
+
+.sub_header td#top_left
+{
+	width:172px;
+	padding-left:6px;
+	background-color:#00b9aa;
+}
+
+.sub_header td#top_center
+{
+	padding-left:6px;
+	font-size:140%;
+	color:#ffffff;
+	white-space:nowrap;
+}
+
+.sub_header td#top_right
+{
+	padding-right:6px;
+	font-size:140%;
+	color:#000000;
+	text-align:right;
+	white-space:nowrap;
+}
+
+.sub_header td#title
+{
+	font-size:160%;
+	color:#ffffff;
+	white-space:pre-wrap;
+}
+
+.sub_header td#sub_title
+{
+	padding-left:6px;
+	font-size:120%;
+	color:#ffffff;
+	white-space:pre-wrap;
+}
+
+/* セレクター */
+.selector
+{
+	width:100%;
+	text-align:center;
+}
+
+/* 会話 */
+.talk
+{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+}
+
+.talk td
+{
+	padding:0px;
+}
+
+.talk td#fukidashi
+{
+	background-color:#ffffff;
+}
+
+.fukidashi
+{
+	width:16px;
+	height:auto;
+}
+
+.alf
+{
+	width:123px;
+	height:auto;
+}
+
+.alf_face
+{
+	width:80px;
+	height:auto;
+}
+
+/* カウンター */
+.table_counter
+{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#000000;
+	color:#ffffff;
+	padding-left:6px;
+}
+
+/* 更新情報テーブル */
+.table_update
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.table_update td
+{
+	background-color:#ffffff;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.table_update td#new
+{
+	color:#ff0000;
+	white-space:nowrap;
+}
+
+.table_update td#next
+{
+	color:#0000ff;
+	white-space:nowrap;
+}
+
+.table_update td#old
+{
+	color:#000000;
+	white-space:nowrap;
+}
+
+/* メニューテーブル */
+.table_menu
+{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+}
+
+.table_menu tr
+{
+	background-color:#ffffff;
+}
+
+.table_menu tr#sub_title
+{
+	text-align:center;
+}
+
+.table_menu tr#footer
+{
+	text-align:right;
+}
+
+.table_menu td#menu
+{
+	font-size:120%;
+}
+
+.table_menu td
+{
+	padding-left:8px;
+	padding-right:8px;
+}
+
+/* データテーブル */
+.table_data td#title
+{
+	padding-left:8px;
+	padding-right:8px;
+	text-align:center;
+}
+
+.table_data td#name
+{
+	padding-left:4px;
+	padding-right:4px;
+	text-align:center;
+	white-space:nowrap;
+}
+
+.table_data td#name_l
+{
+	padding-left:4px;
+	padding-right:4px;
+	text-align:left;
+	white-space:nowrap;
+}
+
+.table_data td#sub_name
+{
+	padding-left:4px;
+	padding-right:4px;
+	text-align:center;
+	white-space:nowrap;
+}
+
+.table_data td#data
+{
+	padding-left:4px;
+	padding-right:4px;
+	background-color:#ffffff;
+}
+
+.table_data td#data_r
+{
+	padding-left:4px;
+	padding-right:4px;
+	text-align:right;
+	background-color:#ffffff;
+}
+
+.table_data td#space_line
+{
+	height:6px;
+}
+
+/* メディアテーブル */
+.table_media td#media
+{
+	vertical-align:top;
+	background-color:#ffffff;
+}
+
+.table_media td#text
+{
+	vertical-align:top;
+}
+
+/* フォトテーブル */
+.table_photo
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* 出口 */
+.exit
+{
+	width:100%;
+	border-collapse: collapse;
+}
+
+.exit td#center
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center
+}
+
+.exit td#left
+{
+	width:50%;
+	text-align:right;
+	padding-right:12px;
+}
+
+.exit td#right
+{
+	width:50%;
+	text-align:left;
+	padding-left:12px;
+}
+
+.back_button
+{
+	width:32px;
+	height:auto;
+	vertical-align:middle;
+}
+
+.exit_button
+{
+	width:64px;
+	height:auto;
+}
+
+.next_button
+{
+	width:32px;
+	height:auto;
+	vertical-align:middle;
+}
+
+/* フッター */
+.footer
+{
+	width:100%;
+	border-collapse: collapse;
+}
+
+.footer td
+{
+	background-color:#00b9aa;
+	padding-right:8px;
+	color:#ffffff;
+	font-size:85%;
+	font-weight:bold;
+}
+
+.footer td#bar
+{
+	background-color:#848484;
+	height:4px;
+}
+
+.footer_logo
+{
+	width:160px;
+	height:auto;
+}
+
+@media (max-width:1390px)
+{
+	.catalog_w
+	{
+		width:100%;
+		height:auto;
+		float:none;
+	}
+}
+
+@media (max-width:710px)
+{
+	.catalog
+	{
+		width:100%;
+		height:auto;
+		float:none;
+	}
+}
+
+@media (max-width:479px)
+{
+	body
+	{
+		font-size:75%;
+	}
+
+	/* 画像 */
+	.photo
+	{
+		width:auto;
+		height:180px;
+		float:none;
+	}
+
+	.photo_w
+	{
+		width:100%;
+		height:auto;
+	}
+
+	.photo2
+	{
+		width:100%;
+		height:auto;
+	}
+
+	.photo3
+	{
+		width:100%;
+		height:auto;
+	}
+
+	.photo_caption
+	{
+		width:auto;
+		height:180px;
+	}
+
+	.movie_w
+	{
+		width:100%;
+		height:100%;
+	}
+
+	.youtube
+	{
+		position:relative;
+		width:100%;
+		padding-top:56.25%
+	}
+
+	.youtube iframe
+	{
+		position:absolute;
+		width:100%;
+		height:100%;
+	}
+
+	/* ヘッダー */
+	.header td#menu
+	{
+		padding-top:4.5px;
+		padding-left:4.5px;
+	}
+
+	/* サブヘッダー */
+	.sub_header td#top_left
+	{
+		width:129px;
+		padding-top:4.5px;
+		padding-left:4.5px;
+	}
+
+	.sub_header td#top_center
+	{
+		padding-left:4.5px;
+	}
+
+	.sub_header td#top_right
+	{
+		padding-right:4.5px;
+	}
+
+	/* データーテーブル */
+	.table_data td#title
+	{
+		padding-left:4px;
+		padding-right:4px;
+	}
+
+	/* 会話 */
+	.fukidashi
+	{
+		width:12px;
+	}
+
+	.alf
+	{
+		width:93px;
+		height:auto;
+	}
+
+	.alf_face
+	{
+		width:60px;
+	}
+
+	/* 更新情報テーブル */
+	.table_update td
+	{
+		padding-left:6px;
+		padding-right:6px;
+	}
+
+	/* メニューテーブル */
+	.table_menu td
+	{
+		padding-left:6px;
+	}
+
+	/* データテーブル */
+	.table_data td#name
+	{
+		padding-left:3px;
+		padding-right:3px;
+	}
+
+	.table_data td#sub_name
+	{
+		padding-left:3px;
+		padding-right:3px;
+	}
+
+	.table_data td#space_line
+	{
+		height:4.5px;
+	}
+
+	/* 出口 */
+	.back_button
+	{
+		width:24px;
+		height:auto;
+	}
+
+	.exit_button
+	{
+		width:48px;
+		height:auto;
+	}
+
+	.next_button
+	{
+		width:24px;
+		height:auto;
+	}
+
+	/* フッター */
+	.footer td
+	{
+		padding-right:6px;
+	}
+
+	.footer td#bar
+	{
+		height:3px;
+	}
+
+	.footer_logo
+	{
+		width:120px;
+		height:auto;
+	}
+}

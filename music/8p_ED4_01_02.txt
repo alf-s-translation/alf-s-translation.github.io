@@ -1,0 +1,32 @@
+曲名　　　　　：製鉄の町～ギア～（クラフトワーク風アレンジ） Ver.1.5
+出典　　　　　：英雄伝説IV　朱紅い雫
+著作権者　　　：日本ファルコム株式会社
+作曲者　　　　：Falcom Sound Team jdk
+アレンジ　　　：安達良則
+データー作成者：安達良則
+演奏音源　　　：Roland SC-88Proシリーズ
+データー形式　：MIDI・・・標準MIDIファイル(SMF format1)
+　　　　　　　　オーディオ・・・Windows Media Audioファイル(WMA)
+作曲環境　　　：本体　EPSON Endeavor MR6000 (Microsoft Windows 7)
+　　　　　　　　I/F 　Roland UM-3EX
+　　　　　　　　音源　Roland SC-88Pro
+　　　　　　　　Key   Roland PC-200
+使用ソフト　　：Cakewalk Music Creator 4
+演奏上の注意　：演奏前に音源のリセットを行って下さい。リセットしないと
+　　　　　　　　意図されたように演奏されない場合があります。
+
+　ベースやドラムをクラフトワークの「The Model」という曲に似せてアレンジ
+してみた。以前、「The Model」そっくり（前奏、間奏、後奏はそのままコピー）の
+アレンジバージョンを作ったのだが、あまりにも似ていたので意図的に変えた。
+
+(2010/04/11)
+
+製鉄の町～ギア～/英雄伝説IV　朱紅い雫/Copyright(C) Nihon Falcom Corporation
+
+------------------------------------------------------------------------
+
+感想はメールでお願いします。
+　alf-room@hobby.biglobe.ne.jp
+
+Web Site「アルフの部屋」
+　http://alf-s-room.main.jp/

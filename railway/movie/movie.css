@@ -1,0 +1,14 @@
+/* メニューテーブル */
+.table_menu
+{
+	border-collapse:separate;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
+.table_menu tr#header
+{
+	background-color:#ffbb77;
+}
+{
